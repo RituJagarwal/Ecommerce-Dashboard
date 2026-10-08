@@ -10,7 +10,6 @@
 
 ### 📸 Dashboard Preview
 ![Ecommerce Dashboard Screenshot](./Ecommerce_Sales_Dashboard.PNG)
-*Replace this with your final dashboard screenshot - the black theme one*
 
 ---
 
